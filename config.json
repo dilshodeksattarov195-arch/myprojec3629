@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configupdate",
+        "uuid": 11790621,
+        "checksum": "za3vd"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
